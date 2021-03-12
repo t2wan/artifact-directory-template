@@ -2,6 +2,6 @@
     "this-repository": "https://github.com/t2wan/artifact-directory-template.git",
     "project-repository": "https://github.com/t2wan/DSC180B-Capstone.git",
     "dockerhub-repository": "t2wan/m7",
-    "project-website-url": "https://white-wildflower-6469.fly.dev/python/",
+    "project-website-url": "http://35.223.187.250:8080/python/",
     "project-website-code": "https://github.com/a5gandhi/DSC180-Capstone-Web.git"
 }
